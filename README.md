@@ -1,10 +1,10 @@
 # My Maps 
 
-## *Your name here*
+## *Clara MacAvoy*
 
 **My Maps** displays a list of maps, each of which show user-defined markers with a title, description, and location. The user can also create a new map. 
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Functionality 
 
@@ -17,13 +17,13 @@ The following **required** functionality is completed:
 The following **extensions** are implemented:
 
 * [ ] When a map marker is created, the pin is animated.
-* [ ] List anything else that you did to improve the app functionality or design!
+* [X] You can delete a map grouping
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
